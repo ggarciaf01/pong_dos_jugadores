@@ -14,7 +14,7 @@ public class Ventana extends JFrame {
     Pelota p = new Pelota();
 
     public Ventana() {
-        setTitle("Pong DEMO");
+        setTitle("Pong Dos Jugadores");
         setSize(800, 500);
         setLocationRelativeTo(null);
         setResizable(false);
