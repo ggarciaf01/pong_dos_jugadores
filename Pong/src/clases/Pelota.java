@@ -4,6 +4,7 @@ import java.awt.geom.Rectangle2D;
 
 /**
  * Clase que controla el funcionamiento de la pelota
+ * Es un sprite
  * @author Guillermo García Fernández
  */
 public class Pelota {
